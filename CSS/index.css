@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* CSS da parte geral da pagina */
+}
+
+ul {
+    list-style: none;
+}
