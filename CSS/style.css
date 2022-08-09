@@ -5,6 +5,7 @@ body {
      background-repeat: no-repeat; /* Para a imagem não repetir  */
      background-size: cover; /* Se o background-size é contain ou cover : A imagem é renderizada, preservando sua proporção intrínseca, com o maior tamanho contido, ou cobrindo a área do elemento pai. Se a imagem não tiver uma proporção intrínseca, então ela é renderizada no tamanho da área do elemento pai*/
      opacity: 1;
+     min-height: 100vh;
 }
 .cabecalho {
     display: flex;
